@@ -14,7 +14,8 @@ try:
     from pywifi import const
     from pywifi import Profile
 except:
-    print("Installing pywifi")
+    print("Install pywifi")
+    #this code doesnt install pywifi
 
 
 # By Brahim Jarrar ~
